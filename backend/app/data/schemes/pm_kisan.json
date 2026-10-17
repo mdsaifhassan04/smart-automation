@@ -1,0 +1,25 @@
+{
+  "scheme_name": "PM-KISAN",
+  "description": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector scheme with 100% funding from Government of India. It provides an income support of ₹6,000 per year in three equal installments to all land holding farmer families.",
+  "eligibility_criteria": [
+    "All landholding farmers' families, which have cultivable landholding in their names are eligible.",
+    "A landholder farmer's family is defined as husband, wife and minor children who own cultivable land as per land records of the respective State/UT."
+  ],
+  "exclusion_categories": [
+    "All Institutional Land holders.",
+    "Farmer families which belong to one or more of the following categories:",
+    "1. Former and present holders of constitutional posts",
+    "2. Former and present Ministers/ State Ministers and former/present Members of LokSabha/ RajyaSabha/ State Legislative Assemblies/ State Legislative Councils, former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats.",
+    "3. All serving or retired officers and employees of Central/ State Government Ministries /Offices/Departments and its field units Central or State PSEs and Attached offices /Autonomous Institutions under Government as well as regular employees of the Local Bodies (Excluding Multi Tasking Staff /Class IV/Group D employees).",
+    "4. All superannuated/retired pensioners whose monthly pension is ₹10,000/-or more (Excluding Multi Tasking Staff / Class IV/Group D employees) of above category.",
+    "5. All Persons who paid Income Tax in last assessment year.",
+    "6. Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with Professional bodies and carrying out profession by undertaking practices."
+  ],
+  "required_documents": [
+    "Aadhaar Card",
+    "Bank Account Details (Passbook)",
+    "Land Holding Papers (Khatauni/Khasra)"
+  ],
+  "benefit_details": "₹6000 per year in 3 installments of ₹2000 each.",
+  "bihar_specific": "In Bihar, LPC (Land Possession Certificate) is often verified alongside basic land records."
+}
